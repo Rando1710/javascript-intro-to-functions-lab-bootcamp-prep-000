@@ -18,7 +18,9 @@ function sayHiToGradnma(string) {
   if (string.toUpperCase() === string) {
  
   }
+  if (string.toLowerCase() === string)
   
+  }
   
   
   uppercase.toUpperCase() === uppercase;
