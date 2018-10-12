@@ -18,19 +18,19 @@ function sayHiToGradnma(string) {
   if (string.toUpperCase() === string) {
     return "YES INDEED!"
   }
-  if (string.toLowerCase() === string)
+  if (string.toLowerCase() === string) {
     return "I can't hear you!"
   }
   
   
- uppercase.toUpperCase() === uppercase;
+// uppercase.toUpperCase() === uppercase;
   
-   else {
-    lowercase = 'hello';
-   }
-  lowercase.toLowerCase() === lowercase;
+//   else {
+//     lowercase = 'hello';
+//   }
+//   lowercase.toLowerCase() === lowercase;
 
-  var mixedCase = 'I love you, Grandma.';
-  mixedCase.toLowerCase() === mixedCase;
-  mixedCase.toUpperCase() === mixedCase;
+//   var mixedCase = 'I love you, Grandma.';
+//   mixedCase.toLowerCase() === mixedCase;
+//   mixedCase.toUpperCase() === mixedCase;
 }
