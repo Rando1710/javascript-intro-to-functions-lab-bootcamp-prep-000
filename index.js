@@ -23,7 +23,7 @@ function sayHiToGradnma(string) {
   }
   
   
-  uppercase.toUpperCase() === uppercase;
+ uppercase.toUpperCase() === uppercase;
   
    else {
     lowercase = 'hello';
