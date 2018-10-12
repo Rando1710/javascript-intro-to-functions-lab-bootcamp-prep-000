@@ -15,7 +15,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGradnma(string) {
-  if (toUpperCase() === 'HELLO') {
+  if (toUpperCase() === string) {
     
   }
   
